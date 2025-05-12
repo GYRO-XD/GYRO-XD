@@ -27,8 +27,7 @@
 
 ### ★ Github data ★
 > *Number of visitors*
-* **Visitor Github @MRXCOD**
-
+* **Github @MRXCOD**
 ![DUMAI-991](https://komarev.com/ghpvc/?username=MRXCOD&color=blue)
 
 ---
