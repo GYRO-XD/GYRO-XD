@@ -25,10 +25,11 @@
 
 ---
 
-### 📡 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚅𝚒𝚎𝚠𝚜
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=𝙿𝚁𝙾𝙵𝙸𝙻𝙴+𝚅𝙸𝚂𝙸𝚃𝚂&color=red" alt="Profile views"/>
-</div>
+### ★ Github data ★
+> *Number of visitors*
+* **Visitor Github @MRXCOD**
+
+![DUMAI-991](https://komarev.com/ghpvc/?username=MRXCOD&color=blue)
 
 ---
 
