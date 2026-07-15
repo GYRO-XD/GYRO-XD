@@ -115,22 +115,33 @@ print(me.life_motto())
 
 ---
 
-## 🏆 `> sudo cat ./achievements`
+## 📊 `> cat ./stats`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GYRO-XD&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4" />
+<img src="https://github-readme-stats.vercel.app/api?username=GYRO-XDshow_icons=true&theme=blood_dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d0000&border_color=FF0000&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GYRO-XD&theme=blood_dark&title_color=FF0000&text_color=ffffff&bg_color=0d0000&border_color=FF0000&layout=compact" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=GYRO-XD&theme=blood&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=999999&background=0d0000&border=FF0000" />
 
 </div>
 
 ---
+<div align="center">
 
 ### ★ Github data ★
 > *Number of visitors*
 * **Github @GYRO-XD**
 
+
 ![DUMAI-991](https://komarev.com/ghpvc/?username=GYRO-XD&color=blue)
 
+</div>
 ---
 
 <div align="center">
