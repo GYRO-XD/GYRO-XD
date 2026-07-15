@@ -23,7 +23,7 @@
 ╔══════════════════════════════════╗
 ║        IDENTITY.SYS              ║
 ╠══════════════════════════════════╣
-║  ░ ALIAS    →  GYRO          ║
+║  ░ ALIAS    →  Mr GYRO          ║
 ║  ░ CLASS    →  Chaos Engineer    ║
 ║  ░ ORIGIN   →  The Dark Web lol  ║
 ║  ░ STATUS   →  Dangerously Awake ║
@@ -61,9 +61,26 @@
 
 ---
 
-### 💻 𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
+## 🛠️ `> ls ./tech-stack`
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GYRO-XD&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+
+**// LANGUAGES & SCRIPTING //**
+
+![Python](https://img.shields.io/badge/Python-1a0000?style=for-the-badge&logo=python&logoColor=FF0000)
+![Bash](https://img.shields.io/badge/Bash-1a0000?style=for-the-badge&logo=gnubash&logoColor=FF0000)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a0000?style=for-the-badge&logo=javascript&logoColor=FF0000)
+![PHP](https://img.shields.io/badge/PHP-1a0000?style=for-the-badge&logo=php&logoColor=FF0000)
+
+**// TOOLS & PLATFORMS //**
+
+![Linux](https://img.shields.io/badge/Linux-1a0000?style=for-the-badge&logo=linux&logoColor=FF0000)
+![Kali](https://img.shields.io/badge/Kali_Linux-1a0000?style=for-the-badge&logo=kalilinux&logoColor=FF0000)
+![Git](https://img.shields.io/badge/Git-1a0000?style=for-the-badge&logo=git&logoColor=FF0000)
+![Docker](https://img.shields.io/badge/Docker-1a0000?style=for-the-badge&logo=docker&logoColor=FF0000)
+![VS Code](https://img.shields.io/badge/VSCode-1a0000?style=for-the-badge&logo=visualstudiocode&logoColor=FF0000)
+![Telegram](https://img.shields.io/badge/Telegram_Bots-1a0000?style=for-the-badge&logo=telegram&logoColor=FF0000)
+
 </div>
 
 ---
