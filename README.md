@@ -36,14 +36,23 @@
 
 ---
 
-### 🔥 𝙾𝚗𝚐𝚘𝚒𝚗𝚐 𝙾𝚙𝚜
-- 🔐 Developing **polymorphic malware framework** <code>Project PHANTOM</code>
-- 💣 Reverse engineering latest **APT malware samples**
-- 🕵️‍♂️ Pentesting **Fortune 500 networks** (NDA-protected)
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════╗
+║                                                   ║
+║   "First, solve the problem. Then, write the      ║
+║    code. Then break it again for fun."            ║
+║                                           — Me    ║
+║                                                   ║
+╚═══════════════════════════════════════════════════╝
+```
 
 ---
+<img src="https://komarev.com/ghpvc/?username=GYRO-XD&label=AGENTS+WHO+FOUND+ME&color=FF0000&style=for-the-badge" />
 
-### 📡 𝙲𝚘𝚗𝚝𝚊𝚌𝚝
-```bash
-# For secure communications (PGP preferred)
-echo "ZW5jcnlwdGVkX21lc3NhZ2U=" | base64 -d | gpg --decrypt
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a0000,FF0000,1a0000&height=120&section=footer&text=EOF&fontSize=28&fontColor=FF0000&animation=twinkling&fontAlignY=65" />
+
+</div>
