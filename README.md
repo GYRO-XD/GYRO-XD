@@ -56,6 +56,36 @@
 
 ---
 
+## 🔴 `> whoami`
+
+```python
+class MrGYRO(Hacker):
+
+    def __init__(self):
+        self.name        = "Mr. GYRO"
+        self.pronouns    = ["he", "him", "root"]
+        self.location    = "127.0.0.1"
+        self.focus       = ["Automation", "Security", "Breaking Things"]
+        self.languages   = ["Python 🐍", "Bash 💀", "JavaScript ⚡"]
+        self.os          = "Arch, btw"
+        self.editor      = "vim (and I'll die on this hill)"
+        self.coffee_cups = float("inf")
+        self.sleep       = None  # deprecated
+
+    def current_status(self):
+        return "Turning coffee into code and bugs into features"
+
+    def life_motto(self):
+        return "It's not a bug. It's an undocumented feature. 🔥"
+
+me = MrGYRO()
+print(me.life_motto())
+# Output: It's not a bug. It's an undocumented feature. 🔥
+```
+
+---
+
+
 
 ![download_2_2](https://github.com/mrxvaau/Hydra/assets/20098740/8ae0328c-ea8e-45a5-9b05-c304fc2dcfdc)
 
