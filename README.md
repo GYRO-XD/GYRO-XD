@@ -136,8 +136,7 @@ print(me.life_motto())
 
 ### ★ Github data ★
 > *Number of visitors*
-* **Github @GYRO-XD**
-
+>     **GYRO-XD**
 
 ![DUMAI-991](https://komarev.com/ghpvc/?username=GYRO-XD&color=blue)
 
